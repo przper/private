@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ASum
+comment1.params=m
+comment1.target=long\ findNb(long)
+comment2.params=num
+comment2.target=long\ volume(long)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
