@@ -1,3 +1,0 @@
-Action FILE DELETE executed on C:\Users\Admin\Desktop\Python\Udemy\Python dla œrednio zaawansowanych\Sekcja 5 Funkcje - scenariusze zastosowañ\dummy_file.txt on 2019-08-26 21:50:25
-Action FILE DELETE executed on C:\Users\Admin\Desktop\Python\Udemy\Python dla œrednio zaawansowanych\Sekcja 5 Funkcje - scenariusze zastosowañ\dummy_file.txt on 2019-08-26 21:50:38
-Action FILE DELETE executed on C:\Users\Admin\Desktop\Python\Udemy\Python dla œrednio zaawansowanych\Sekcja 5 Funkcje - scenariusze zastosowañ\dummy_file.txt on 2019-08-26 21:50:38
