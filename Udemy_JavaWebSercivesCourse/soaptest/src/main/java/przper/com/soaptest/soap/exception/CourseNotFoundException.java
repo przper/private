@@ -1,0 +1,16 @@
+package przper.com.soaptest.soap.exception;
+
+import org.springframework.ws.soap.server.endpoint.annotation.FaultCode;
+import org.springframework.ws.soap.server.endpoint.annotation.SoapFault;
+
+@SoapFault(faultCode = FaultCode.CLIENT)
+public class CourseNotFoundException extends RuntimeException {
+
+	private static final long serialVersionUID = -2805479831182480454L;
+
+	public CourseNotFoundException(String message) {
+		super(message);
+		// TODO Auto-generated constructor stub
+	}
+	
+}
