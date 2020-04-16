@@ -1,3 +1,4 @@
+package Recursion1;
 
 public class Triangle {
 	public int triangle(int rows) {

@@ -1,3 +1,4 @@
+package Recursion1;
 
 public class SumDigits {
 	public int sumDigits(int n) {
